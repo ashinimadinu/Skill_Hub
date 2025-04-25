@@ -1,5 +1,5 @@
 .profile-card {
-  background: #fff;
+  background: #561616;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
   padding: 20px;
@@ -24,7 +24,7 @@
   align-items: center;
   width: 100%;
   flex-direction: column;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #7a2222;
   margin-bottom: 20px;
 }
 .user_data_card {
@@ -80,7 +80,7 @@
 }
 .delete-button {
   background-color: red;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 .my_post_link {
   width: 100%;
@@ -91,7 +91,7 @@
 }
 .my_post_link_card {
   width: 380px;
-  background: #ffffff;
+  background: #b15d5d;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
   padding: 10px 20px;
