@@ -81,7 +81,7 @@
   display: flex;
 }
 .post_card_new {
-  width: 700px;
+  width: 800px;
 }
 .not_found_img {
   background-image: url("./img/notfound.png");
