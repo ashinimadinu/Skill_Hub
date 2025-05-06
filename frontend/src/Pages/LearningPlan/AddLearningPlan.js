@@ -91,7 +91,7 @@ function AddLearningPlan() {
 
       // Create the new post object
       const newPost = {
-        title,
+       
         description,
         contentURL,
         tags,
