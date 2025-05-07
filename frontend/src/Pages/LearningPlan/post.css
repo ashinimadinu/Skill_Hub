@@ -402,12 +402,7 @@ textarea {
   gap: 8px;
 }
 
-.user_details_card_di {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  gap: 8px;
-}
+
 
 .media-collage {
   display: grid;
