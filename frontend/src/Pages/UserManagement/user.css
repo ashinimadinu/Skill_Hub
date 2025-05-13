@@ -109,6 +109,11 @@
   margin-bottom: 1rem;
 }
 
+.Auth_formGroup {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
 .Auth_label {
   display: block;
   margin-bottom: 0.5rem;
