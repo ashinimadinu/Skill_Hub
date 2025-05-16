@@ -1,5 +1,5 @@
 .profile-card {
-  background: #9b9797;
+  background: #fff;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
   padding: 20px;
@@ -24,7 +24,7 @@
   align-items: center;
   width: 100%;
   flex-direction: column;
-  border-bottom: 1px solid #fff8f8;
+  border-bottom: 1px solid #ccc;
   margin-bottom: 20px;
 }
 .user_data_card {
