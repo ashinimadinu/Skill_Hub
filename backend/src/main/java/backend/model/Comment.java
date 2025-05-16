@@ -1,4 +1,4 @@
-package backend.model;
+3 package backend.model;
 
 public class Comment {
     private String id;
