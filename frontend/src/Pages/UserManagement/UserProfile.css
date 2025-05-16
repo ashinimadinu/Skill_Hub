@@ -79,7 +79,7 @@
   text-transform: capitalize;
 }
 .delete-button {
-  background-color: red;
+  background-color: rgb(141, 71, 71);
   color: white;
 }
 .my_post_link {
