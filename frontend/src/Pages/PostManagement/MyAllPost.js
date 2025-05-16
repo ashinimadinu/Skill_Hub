@@ -86,7 +86,7 @@ function MyAllPost() {
     fetchFollowedUsers();
   }, []);
 
-  const handleDelete = async (postId) => {
+  const handleDelete = async (postI) => {
     const confirmDelete = window.confirm('Are you sure you want to delete this post?');
     if (!confirmDelete) {
       return; // Exit if the user cancels the confirmation
