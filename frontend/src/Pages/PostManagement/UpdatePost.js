@@ -14,7 +14,7 @@ function UpdatePost() {
 
   useEffect(() => {
     // Fetch the post details
-    const etchPost = async () => {
+    const fetchPost = async () => {
       try {
         const response = await axios.get(`http://localhost:8080/posts/${id}`);
         const post = response.data;
