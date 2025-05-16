@@ -39,8 +39,8 @@
   justify-content: flex-start;
   align-items: center;
   width: 100%;
-  gap: 11px;
-  margin-bottom: 11px;
+  gap: 10px;
+  margin-bottom: 10px;
 }
 .profile-actions {
   margin-top: 10px;
